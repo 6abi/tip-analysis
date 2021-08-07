@@ -3,11 +3,12 @@
 <h1 align="left">tip-analysis</h1>
 <h2 align="left"> 🧾 Descrição do Projeto</h2>
 <p align="left">Análise das gorjetas em alguns restaurantes, usando uma base de dados pública. </p>
+<p align="left">Foram feitas alguma análises visuais, com diversas plotagem dos dados e alguns testes de Hipótese de acordo com os pvalue encontrados </p>
 <p align="left">Base de Dados usada: <a href="https://github.com/6abi/tip-analysis/blob/master/data/tips.csv" target="_blank" align = "center">Gorgetas </a> </p>
  <!-- Status do projeto -->
  <h2 align="left"> ⁉ Status </h2>
 <h4 align="left"> 
-	🚧 Em construção... 🚧
+	 ✅Completo✅
 </h4>
 
 
